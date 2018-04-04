@@ -1,0 +1,13 @@
+﻿  Matrix.cpp
+d:\work\git\matrix\matrix\matrix.cpp(59): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(126): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(198): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(201): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(219): warning C4018: <: несоответствие типов со знаком и без знака
+d:\work\git\matrix\matrix\matrix.cpp(222): warning C4018: <: несоответствие типов со знаком и без знака
+  Matrix.vcxproj -> D:\work\git\Matrix\Debug\Matrix.exe
